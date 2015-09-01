@@ -1,17 +1,31 @@
-- Git Flow, Semver
-- NPM, Grunt
+- Git Flow
+  - Semver
+
+- NPM
+- Bower
+
+- Grunt
+  - HTML2JS
+  - Uglify
+  - Browserify
+  - LESS + Autoprefixer + cssmin
+  - Watch + LiveReload
+  - ENV for conditional builds
 
 - Angular
-  - HTML2JS
-  - Basics
+  - Basics: scope, directives, filters (moment!), DI, services, one-time binding, show vs if
   - Forms
-  - ui-router
+  - Routing using ui-router
+  - HTTP using Restangular
 
-- Browserify?
-- Autoprefixer
+- Bonus round: Lodash
+  - memoize, debounce, where, remove
 
 
-```
-git flow init
-npm init
-```
+After all this, auth will still be a mild pain in the ass. Invite to e-w-n repo.
+
+
+
+Before we start:
+- Ensure you have Node installed. npm should be on your command line
+- Ensure you have grunt-cli installed. grunt should be on your command line
