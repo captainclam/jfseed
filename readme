@@ -1,0 +1,17 @@
+- Git Flow, Semver
+- NPM, Grunt
+
+- Angular
+  - HTML2JS
+  - Basics
+  - Forms
+  - ui-router
+
+- Browserify?
+- Autoprefixer
+
+
+```
+git flow init
+npm init
+```

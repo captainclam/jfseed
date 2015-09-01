@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Angular</title>
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/angular.js/1.4.1/angular.min.js"></script>
+  <script>
+  var app = angular.module('demo', []);
+  </script>
+</head>
+<body ng-app>
+  <input ng-model="name">
+  <div ng-if="name">
+    Hello, {{name}}
+  </div>
+</body>
+</html>
