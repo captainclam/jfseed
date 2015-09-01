@@ -5,6 +5,7 @@
 - Bower
 
 - Grunt
+  - require sub tasks
   - HTML2JS
   - Uglify
   - Browserify
@@ -14,6 +15,7 @@
 
 - Angular
   - Basics: scope, directives, filters (moment!), DI, services, one-time binding, show vs if
+  - Promises
   - Forms
   - Routing using ui-router
   - HTTP using Restangular
@@ -29,3 +31,5 @@ After all this, auth will still be a mild pain in the ass. Invite to e-w-n repo.
 Before we start:
 - Ensure you have Node installed. npm should be on your command line
 - Ensure you have grunt-cli installed. grunt should be on your command line
+- Install karma. start phonecat tutorial until karma step?
+- Run npm install + grunt dev successfully on this repo
