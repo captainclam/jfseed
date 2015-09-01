@@ -1,0 +1,19 @@
+git clone gh:captainclam/jfseed
+cd jfseed/
+la
+npm init
+grunt init
+npm i --save grunt
+bower init
+bower install
+bower install lodash --save-dev
+bower install moment --save-dev
+
+
+git:
+
+git flow init
+pull
+gd
+git commit -am "assorted prep"
+push

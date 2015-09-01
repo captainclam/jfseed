@@ -1,0 +1,19 @@
+{
+  "name": "jfseed",
+  "version": "0.0.0",
+  "authors": [
+    "Simon Lang <me@simonlang.org>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "lodash": "~3.10.1",
+    "moment": "~2.10.6"
+  }
+}

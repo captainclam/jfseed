@@ -6,7 +6,7 @@
 
 - Grunt
   - require sub tasks
-  - HTML2JS
+  - HTML2JS (jade?)
   - Uglify
   - Browserify
   - LESS + Autoprefixer + cssmin
@@ -15,6 +15,7 @@
 
 - Angular
   - Basics: scope, directives, filters (moment!), DI, services, one-time binding, show vs if
+  - detectFormat for isMobile, isDesktop responsive templates
   - Promises
   - Forms
   - Routing using ui-router
@@ -33,3 +34,4 @@ Before we start:
 - Ensure you have grunt-cli installed. grunt should be on your command line
 - Install karma. start phonecat tutorial until karma step?
 - Run npm install + grunt dev successfully on this repo
+ 
