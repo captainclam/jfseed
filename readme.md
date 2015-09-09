@@ -14,7 +14,7 @@
   - ENV for conditional builds
 
 - Angular
-  - Basics: scope, directives, filters (moment!), DI, services, one-time binding, show vs if
+  - Basics: scope, directives, digest, filters (moment!), DI, services, one-time binding, show vs if
   - Promises
   - Forms
   - Routing using ui-router
