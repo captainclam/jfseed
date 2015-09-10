@@ -36,6 +36,7 @@ After all this, auth will still be a mild pain in the ass. Invite to e-w-n repo.
 - Ensure you have grunt-cli installed. grunt should be on your command line
 - Install karma. start phonecat tutorial until karma step?
 - Run npm install + grunt dev successfully on this repo
+- [Install Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang-stable/niopocochgahfkiccpjmmpchncjoapek)
 
 
 ## Resources
